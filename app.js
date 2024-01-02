@@ -3,5 +3,4 @@ const features = document.querySelector('.features');
 
 
 hamburger.addEventListener('click', (e) => {
-
 });
